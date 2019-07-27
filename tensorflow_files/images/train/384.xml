@@ -1,0 +1,62 @@
+<annotation>
+	<folder>8</folder>
+	<filename>384.jpg</filename>
+	<path>/Volumes/LaCie/grant_yb2_20190101/2019-01/10/165/8/384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>3300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>patent image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>500</ymin>
+			<xmax>925</xmax>
+			<ymax>1222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patent image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1282</xmin>
+			<ymin>578</ymin>
+			<xmax>1908</xmax>
+			<ymax>1465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patent image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>1213</ymin>
+			<xmax>1308</xmax>
+			<ymax>1826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patent image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>1900</ymin>
+			<xmax>1929</xmax>
+			<ymax>2948</ymax>
+		</bndbox>
+	</object>
+</annotation>
