@@ -1,0 +1,26 @@
+<annotation>
+	<folder>37</folder>
+	<filename>856.jpg</filename>
+	<path>/Volumes/LaCie/grant_yb2_20190101/2019-01/10/165/37/856.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>3300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>patent image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>1991</ymin>
+			<xmax>2278</xmax>
+			<ymax>2854</ymax>
+		</bndbox>
+	</object>
+</annotation>
